@@ -1,2 +1,3 @@
 # Employee-attrtion
-Github session
+![image.png](images/HRTalent.png)
+
